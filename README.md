@@ -9,5 +9,6 @@ List of papers:
 |---|---|---|---|---|---|
 
 | 001 | Rosenblatt's Perceptron | 1958 | na | na | Pytorch, Tensorflow, Numpy |
+|---|---|---|---|---|---|
 
 Happy Coding!
